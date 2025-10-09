@@ -58,5 +58,5 @@
     ```
 2.  Запустите скрипт:
     ```bash
-    python task_03_cbr_parser/task_3.py
+    python task_3.py
     ```
